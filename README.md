@@ -2,5 +2,5 @@
 
 ```
 brew tap daxchain-io/tap
-brew install wallet
+brew install cli-wallet
 ```
