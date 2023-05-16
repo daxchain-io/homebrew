@@ -1,6 +1,6 @@
 # cli-wallet Homebrew
 
 ```
-brew tap daxchain-io/cli-wallet
+brew tap daxchain-io/homebrew
 brew install wallet
 ```
