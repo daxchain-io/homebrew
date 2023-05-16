@@ -1,4 +1,4 @@
-class CLI-Wallet < Formula
+class CLIWallet < Formula
   desc "A command-line interface based Ethereum wallet with token and smart contract support"
   homepage "https://github.com/daxchain-io/cli-wallet"
   url "https://github.com/daxchain-io/cli-wallet/archive/refs/tags/v0.0.0.tar.gz
