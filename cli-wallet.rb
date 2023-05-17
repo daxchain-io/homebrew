@@ -1,8 +1,8 @@
 class CliWallet < Formula
   desc "A command-line interface based Ethereum wallet with token and smart contract support"
   homepage "https://github.com/daxchain-io/cli-wallet"
-  url "https://github.com/daxchain-io/cli-wallet/archive/refs/tags/v0.0.6.tar.gz"
-  sha256 "703c62492cc77a15eeadeecfd273264e195f92c15942756b3300fc8c91b562f1"
+  url "https://github.com/daxchain-io/cli-wallet/archive/refs/tags/v0.0.7.tar.gz"
+  sha256 "0d7812813a6795b52620870e9ee842b278e5506375b167dd99d7ed9be91ed51a"
   
   depends_on "go" => :build
 
