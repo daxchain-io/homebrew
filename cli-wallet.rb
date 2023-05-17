@@ -6,7 +6,7 @@ class CliWallet < Formula
   
   bottle do
     root_url "https://github.com/daxchain-io/cli-wallet/releases/download/v0.0.4"
-    sha256 cellar: :any_skip_relocation, big_sur: "your_big_sur_bottle_hash"
+    sha256 cellar: :any_skip_relocation, arm64_ventura: "your_big_sur_bottle_hash"
     # Include other macOS versions if available
   end
 
